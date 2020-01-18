@@ -8,7 +8,7 @@ function(){
 }
 
 function(){
-return  
+return
 }
 
 function(){
